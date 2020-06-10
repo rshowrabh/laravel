@@ -1,0 +1,31 @@
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700);
+
+// Variables
+@import 'variables';
+
+
+
+// Font awesome
+
+@import '~@fortawesome/fontawesome-free/scss/brands';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+
+// // Ionicons
+// @import "node_modules/ionicons/scss/ionicons";
+
+
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+@import "~admin-lte/dist/css/adminLTE.css";
+@import "~admin-lte/plugins/datatables-bs4/css/dataTables.bootstrap4.css";
+
+
+@import 'custom';
+
+
